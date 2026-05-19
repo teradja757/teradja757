@@ -31,8 +31,7 @@ Real configurations. Step-by-step. Compliance context included.
 
 | # | Lab | Maps To |
 |---|-----|---------|
-| 01 | [Conditional Access — Require MFA for All Users](https://github.com/teradja757/entra-id-labs) | HIPAA · SOC 2 · HITRUST |
-
+| 01 | [MFA Enforcement — Per-User Multifactor Authentication](https://github.com/teradja757/entra-id-labs) | HIPAA · SOC 2 · HITRUST |
 More coming.
 
 ---
