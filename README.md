@@ -1,16 +1,40 @@
-## Hi there 👋
+# Teradja Mitchell
 
-<!--
-**teradja757/teradja757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IAM and cloud security engineer with a background in healthcare SaaS.
+I build labs documenting real-world Microsoft Entra ID configurations —
+Conditional Access, RBAC, device compliance, privileged identity management,
+and more.
 
-Here are some ideas to get you started:
+This is where I show the work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack
+
+Entra ID · Conditional Access · Azure RBAC · Intune · PIM · MFA · SSPR  
+Microsoft Defender XDR · Entra ID Protection · Vanta · Exchange Online  
+PowerShell · Microsoft 365 · Azure Virtual Desktop
+
+---
+
+## Certs
+
+- CompTIA Security+
+- CompTIA CASP+
+- SC-300 — Microsoft Identity and Access Administrator *(in progress)*
+
+---
+
+## Labs
+
+Real configurations. Step-by-step. Compliance context included.
+
+| # | Lab | Maps To |
+|---|-----|---------|
+| 01 | [Conditional Access — Require MFA for All Users](https://github.com/teradja757/entra-id-labs) | HIPAA · SOC 2 · HITRUST |
+
+More coming.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/teradja-mitchell-0494b9208)
