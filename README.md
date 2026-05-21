@@ -46,7 +46,8 @@ Real configurations. Step-by-step. Compliance context included.
 |---|-----|---------|
 | 01 | [MFA Enforcement — Per-User Multifactor Authentication](https://github.com/teradja757/entra-id-labs/tree/main/labs/lab-01-mfa-enforcement) | HIPAA · SOC 2 · HITRUST |
 | 02 | [Security Group Creation and Membership Management](https://github.com/teradja757/entra-id-labs/tree/main/labs/lab-02-security-group-management) | HIPAA · SOC 2 · HITRUST · NIST 800-53 |
-
+| 03 | [Entra ID Role Assignment and Privileged Access Management](https://github.com/teradja757/entra-id-labs/tree/main/labs/lab-03-role-assignment-and-pim) | HIPAA · SOC 2 · HITRUST · NIST 800-53 |
+More to come ...
 ---
 
 [LinkedIn](https://www.linkedin.com/in/teradja-mitchell-0494b9208)
