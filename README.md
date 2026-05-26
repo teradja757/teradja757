@@ -1,8 +1,7 @@
 # Teradja Mitchell
-
 Security engineer with core ownership of identity and access management across Microsoft Entra ID, Intune, Azure, and Microsoft 365 in a regulated healthcare SaaS environment.
 
-I build labs documenting real-world configurations — Conditional Access policy design, RBAC enforcement, MFA, Privileged Identity Management, app registration, device compliance, and Defender XDR response — with continuous validation against live source systems.
+I build labs documenting real-world Microsoft Entra ID configurations on a live free-tier tenant - identity lifecycle management, group-based access control, role assignments, app registrations, B2B collaboration, and more - with every step validated in the portal and via PowerShell.
 
 This is where I show the work.
 
@@ -34,7 +33,7 @@ PowerShell · Microsoft Graph API · Vanta · AI-assisted security workflows
 
 - CompTIA SecurityX (CASP+)
 - CompTIA Security+
-- SC-300 — Microsoft Identity and Access Administrator *(in progress)*
+- SC-300 - Microsoft Identity and Access Administrator *(in progress)*
 
 ---
 
@@ -44,10 +43,14 @@ Real configurations. Step-by-step. Compliance context included.
 
 | # | Lab | Maps To |
 |---|-----|---------|
-| 01 | [MFA Enforcement — Per-User Multifactor Authentication](https://github.com/teradja757/entra-id-labs/tree/main/labs/lab-01-mfa-enforcement) | HIPAA · SOC 2 · HITRUST |
+| 01 | [MFA Enforcement - Per-User Multifactor Authentication](https://github.com/teradja757/entra-id-labs/tree/main/labs/lab-01-mfa-enforcement) | HIPAA · SOC 2 · HITRUST |
 | 02 | [Security Group Creation and Membership Management](https://github.com/teradja757/entra-id-labs/tree/main/labs/lab-02-security-group-management) | HIPAA · SOC 2 · HITRUST · NIST 800-53 |
 | 03 | [Entra ID Role Assignment and Privileged Access Management](https://github.com/teradja757/entra-id-labs/tree/main/labs/lab-03-role-assignment-and-pim) | HIPAA · SOC 2 · HITRUST · NIST 800-53 |
-More to come ...
+| 04 | [App Registrations and Role-Based Access Control](https://github.com/teradja757/entra-id-labs/tree/main/labs/lab-04-app-registrations-and-rbac) | HIPAA · SOC 2 · HITRUST · NIST 800-53 |
+| 05 | [Guest User Access and B2B Collaboration](https://github.com/teradja757/entra-id-labs/tree/main/labs/lab-05-guest-user-access-b2b) | HIPAA · SOC 2 · HITRUST · NIST 800-53 |
+
+*More to come.*
+
 ---
 
 [LinkedIn](https://www.linkedin.com/in/teradja-mitchell-0494b9208)
